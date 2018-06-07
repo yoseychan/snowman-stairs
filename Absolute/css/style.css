@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+}
+
+.box {
+	height: 300px;
+	width: 600px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+.box .snowman {
+	font-size: 40px;
+}
