@@ -4,4 +4,54 @@ body {
 
 .snowman {
 	font-size: 100px;
+	position: fixed;
 }
+.snow1 {
+	border-top: 3px dotted black;
+	border-right: 3px dotted black;
+	height: 50px;
+	width: 50px;
+	position: fixed;
+	top: 110px;
+	left: 0;
+
+}
+.snow2 {
+	border-top: 3px dotted black;
+	border-right: 3px dotted black;
+	height: 50px;
+	width: 50px;
+	position: fixed;
+	top: 160px;
+	left: 50px;
+}
+.snow3 {
+	border-top: 3px dotted black;
+	border-right: 3px dotted black;
+	height: 50px;
+	width: 50px;
+	position: fixed;
+	top: 210px;
+	left: 100px;
+}
+
+.snow4 {
+	border-top: 3px dotted black;
+	border-right: 3px dotted black;
+	height: 50px;
+	width: 50px;
+	position: fixed;
+	top: 260px;
+	left: 150px;
+}
+
+.snow5 {
+	border-top: 3px dotted black;
+	border-right: 3px dotted black;
+	height: 50px;
+	width: 50px;
+	position: fixed;
+	top: 310px;
+	left: 200px;
+}
+

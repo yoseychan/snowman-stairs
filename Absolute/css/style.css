@@ -7,8 +7,61 @@ body {
 	width: 600px;
 	border: 1px solid black;
 	margin: 0 auto;
+	position: relative;
 }
 
 .box .snowman {
 	font-size: 40px;
 }
+
+.snow1 {
+	border-top: 1px dotted black;
+	border-right: 1px dotted black;
+	height: 50px;
+	width: 60px;
+	position: absolute;
+	top: 45px;
+	left: 0;
+}
+
+.snow2 {
+	border-top: 1px dotted black;
+	border-right: 1px dotted black;
+	height: 50px;
+	width: 60px;
+	position: absolute;
+	top: 95px;
+	left: 60px;
+}
+
+.snow3 {
+	border-top: 1px dotted black;
+	border-right: 1px dotted black;
+	height: 50px;
+	width: 60px;
+	position: absolute;
+	top: 145px;
+	left: 120px;
+}
+.snow4 {
+	border-top: 1px dotted black;
+	border-right: 1px dotted black;
+	height: 50px;
+	width: 60px;
+	position: absolute;
+	top: 195px;
+	left: 180px;
+}
+.snow5 {
+	border-top: 1px dotted black;
+	border-right: 1px dotted black;
+	height: 50px;
+	width: 60px;
+	position: absolute;
+	top: 245px;
+	left: 240px;
+}
+
+
+
+
